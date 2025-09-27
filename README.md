@@ -1,4 +1,4 @@
-# Week-7-Python-Data-Analysis
+# Python-Data-Analysis
 
 # Iris Dataset Analysis and Visualization
 
